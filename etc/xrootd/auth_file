@@ -1,0 +1,4 @@
+= gm2analysis o: fermilab g: /fermilab/gm2 r: Analysis
+x gm2analysis /gm2data/cornell rwildn
+= gm2production o: fermilab g: /fermilab/gm2 r: Production
+x gm2production /gm2data/cornell rwildn

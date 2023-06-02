@@ -1,0 +1,6 @@
+u * /lsst/sim-data rl
+= lsstddmopr o: lsst g: /lsst r: ddmopr
+x lsstddmopr /lsst rwildn
+o lsst /lsst rl
+= desuserx o: des
+x desuserx /lsst/fnal rwildn
